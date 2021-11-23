@@ -9,7 +9,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50px"/>
   <br>
   <br>
-  <a href=""><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
+  <a href="https://lipollis.github.io/DH-FrontEndII-Checkpoint_1/"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
 </div>
 <br>
 <br>
