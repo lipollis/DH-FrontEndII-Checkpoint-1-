@@ -1,4 +1,4 @@
-<div align="right"> <img src="https://github.com/lipollis/Imagens-Git/blob/main/banner_assinatura.svg"/> </div>
+<div align="right"> <img src="https://github.com/lipollis/Imagens-Git/blob/main/sun.png"/> </div>
 
 <h1 align="center"> CRINGE QUIZ </h1>
 <h2 align="center"> CHECKPOINT Front End II - CTD:Digital House </h2>
